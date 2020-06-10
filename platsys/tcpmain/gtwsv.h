@@ -4,7 +4,7 @@
 //  @ Project : 系统平台头文件
 //  @ File Name : gtwsv.h
 //  @ Date : 2013/8/21
-//  @ Author : 狄尚朋
+//  @ Author : disp
 //
 //
 
